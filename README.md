@@ -1,0 +1,4 @@
+- 👋 Hi, I am @JDEYRIS, a Ph.D student in economics at University Paris Nanterre, France
+- 👀 I am interested in central banking, financial regulation and low-carbon transition. More on my research here: https://sites.google.com/parisnanterre.fr/jeromedeyris/th%C3%A8se
+- 🌱 I am currently learning textual analysis methods to explore how the ECB understands climate change.
+- 📫 You can reach me by email jdeyris[at]parisnanterre.fr
